@@ -1,33 +1,25 @@
-# Getting Started with Programming the Minecraft World
+# Programmeren in de Minecraft Wereld
 
 ![](cover.png)
 
-Minecraft is a popular sandbox open world-building game. A free version of Minecraft is available for the Raspberry Pi; it also comes with a programming interface. This means you can write commands and scripts in Python code to build things in the game automatically. It's a great way to learn Python!
+Minecraft is een populair "sandbox" spel dat toelaat werelden te bouwen en daarin te bewegen en taken uit te voeren. Er bestaat een gratis versie van die beschikbaar is op de Raspberry Pi en die bovendien een programmeerbare interface heeft. Dat betekent dat je cammando's en scripts kan schrijven in Python (een volwaardige programmeertaal) om automatisch dingen te bouwen. Een uitstekende manier om zowel Python als algemene programmeerprincipes te leren.
 
 ![Minecraft Pi banner](images/minecraft-pi-banner.png)
 
-## Requirements
+## Vereisten
 
-### Hardware
+Er is enkele een Raspberry Pi nodig met een recente Raspbian versie (best > September 2014).
 
-This resource requires no additional hardware besides a Raspberry Pi with a Raspbian SD card.
+## Worksheet
 
-### Software
+- [Worksheet](worksheet.md)
 
-Minecraft has been installed by default in Raspbian since September 2014.
+## Licentie
 
-If you do not have it installed, or you need to test it works, see the [software installation](software.md) page.
-
-## The worksheet
-
-- [The worksheet](worksheet.md)
-
-## Licence
-
-Unless otherwise specified, everything in this repository is covered by the following licence:
+Tenzij anders aangegeven valt alles in deze repository onder de volgende licentie:
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-***Minecraft Pi*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
+***Sonic Pi Workshop*** by [Raspberry Jam België](http://www.raspberryjam.be) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on a work at https://github.com/raspberrypilearning/getting-started-with-minecraft-pi
