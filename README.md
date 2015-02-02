@@ -8,7 +8,7 @@ Minecraft is een populair "sandbox" spel dat toelaat werelden te bouwen en daari
 
 ## Vereisten
 
-Er is enkele een Raspberry Pi nodig met een recente Raspbian versie (best > September 2014).
+Er is enkel een Raspberry Pi nodig met een recente Raspbian versie (best > September 2014).
 
 ## Worksheet
 
